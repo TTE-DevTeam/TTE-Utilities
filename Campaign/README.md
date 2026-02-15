@@ -1,6 +1,6 @@
 # WorldGuard Grid Region Generator
 
-A simple Python CLI tool to generate a `regions.yml` file for the Minecraft plugin **:contentReference[oaicite:0]{index=0}** based on a centered, symmetrical grid layout.
+A simple Python CLI tool to generate a `regions.yml` file for the Minecraft plugin **Worldguard** based on a centered, symmetrical grid layout.
 
 This script automatically creates cuboid regions arranged around the world center `(0, 0)` and exports them in valid YAML format, ready to be used in your WorldGuard configuration.
 
