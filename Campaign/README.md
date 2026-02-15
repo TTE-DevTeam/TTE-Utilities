@@ -59,9 +59,9 @@ python generate_regions.py \
 
 Example:
 For --rows 3 --cols 3:
-|A-1|A-2|A-3|
-|B-1|B-2|B-3|
-|C-1|C-2|C-3|
+| A-1 | A-2 | A-3 |
+| B-1 | B-2 | B-3 |
+| C-1 | C-2 | C-3 |
 The center region is: B-2
 
 # Region naming
